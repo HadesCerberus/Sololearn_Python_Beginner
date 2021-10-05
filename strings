@@ -1,0 +1,27 @@
+print('Coding in Finance')
+#Coding in Finance
+print("An investment in knowledge pays the best interest.")
+#An investment in knowledge pays the best interest.
+
+
+
+print('I'm a programmer')
+
+#Your Output
+#File "/usercode/file0.py", line 1
+#    print('I'm a programmer')
+             ^
+#SyntaxError: invalid syntax
+
+
+print('I\'m a programmer')
+#your output
+I'm a programmer
+
+print('I\'m learning Python!')
+#output
+I'm learning Python!
+
+print("A number enclosed in double quotes: \"42\"")
+#output
+A number enclosed in double quotes: "42"
