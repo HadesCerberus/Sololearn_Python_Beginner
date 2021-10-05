@@ -1,0 +1,24 @@
+print('One\nTwo\nThree')
+
+One
+Two
+Three
+
+print('One\tTwo\tThree')
+
+One   Two   Three
+
+
+
+*************************************************************************
+
+print("""this
+is a
+multiline
+text""")
+
+#output
+this
+is a
+multiline
+text
