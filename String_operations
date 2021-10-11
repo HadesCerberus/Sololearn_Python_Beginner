@@ -1,0 +1,23 @@
+
+print(42*'Hi')
+
+# outcome 
+# hihihihihihihi.....
+
+# String operations
+# you are giving the task to write the word "Hi" 42 times. Boring right?
+# Let's write a program to do it for you.
+# Create a program to output "Hi" 42 times, without any seperations on the same line 
+# REMEMBER you can MULTIPLY strings by numbers!!!
+
+#Other exaxmples
+print("spam"*3)
+
+#outcome 
+#spamspamspam
+
+#Other exaxmples
+print(4*'2')
+
+#outcome
+2222
