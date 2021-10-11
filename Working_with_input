@@ -1,0 +1,49 @@
+#Input
+
+#Right, so we know that the input() function returns a string. But what if we need it to be something else, like a number? 
+#No problem, we can totally do that!
+#Let's assume we’ve taken the age of the user as an input.
+#To convert it to a number, we can use the int() function:
+
+age = int(input())
+print(age)  
+
+#This will turn it from a string to an integer. Simple, right?
+
+#But wait, there’s more! We can do the same thing in reverse, and convert a number to a string, but this time we need to use the...
+#you guessed it, the str() function. This can be useful if you need to use a number in string concatenation.
+
+#For example:
+
+age = 42
+print("His age is " + str(age))  
+
+
+#You can convert to float using the float() function.
+
+#************************************************************************************
+
+Input
+What will be the output of this code?
+
+x = “2”
+y = “4”
+z = int(x) + int(y)
+print(z)
+
+#OUTPUT
+6
+
+#*************************************************************************
+
+Input
+#The last thing to mention is that you can use input() multiple times to take multiple user inputs.
+#For example:
+
+name = input()
+age = input()
+
+print(name + " is " + age)   
+
+
+#When the input() function executes the program flow stops until a user enters some value. Ball’s in your court user!
