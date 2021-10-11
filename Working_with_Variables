@@ -1,0 +1,24 @@
+#Working with Variables
+
+
+#So, you’ve got your variable, and named it. You’re now free to use them to perform corresponding operations, 
+#just as you do with numbers and strings. Like this:
+
+x = 7
+print(x)
+
+print(x + 3)
+print(x)
+
+#You can see that the variable stores its value throughout the program.
+
+
+#Need to change the value of a variable? Easy. Variables can be reassigned as many times as you want. Like this:
+
+x = 123.456
+print(x)
+
+x = "This is a string"
+print(x + "!")
+
+#But Beware! Overwriting the same variable with different data types is not good practice. To avoid mistakes, try to avoid doing it.
