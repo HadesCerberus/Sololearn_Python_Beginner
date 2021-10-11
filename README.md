@@ -1,2 +1,3 @@
 # Python_sololearn
-Lisa
+
+Python for beghinners the fundamentals.
