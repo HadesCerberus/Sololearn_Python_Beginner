@@ -1,0 +1,5 @@
+bill = int(input())
+
+#your code goes here
+
+print(bill/100*20)
