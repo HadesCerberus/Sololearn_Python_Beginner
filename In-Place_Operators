@@ -1,0 +1,55 @@
+#In-Place Operators
+
+#In-place operators let you write code like 'x = x + 3' more concisely, as 'x += 3'. And who doesn’t love to save time!
+
+x = 2
+print(x)
+
+x += 3
+print(x)
+
+#output
+2
+5
+
+
+#Check it out:
+#We can do the same thing possible with other operators like -, *, / and % as well.
+
+#*****************************************************************
+In-Place Operators
+What is the output of this code?
+
+x = 4
+x *= 3
+print(x)
+
+#output
+12
+
+#******************************************************************
+
+#These operators aren’t just useful for numbers, oh no, no, no. Got some Strings you want to simplify? Simplify away!
+
+
+x = "spam"
+print(x)
+
+x += "eggs"
+print(x)
+
+#output
+spam
+spameggs
+
+#•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+What's the result of this code?
+
+x = "a"
+x *= 3
+print(x)
+
+#output
+aaa
+#In-place operators can be used for any numerical operation (+, -, *, /, %, **, //). So many symbols, so many possibilities!
