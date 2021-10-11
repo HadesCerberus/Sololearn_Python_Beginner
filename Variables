@@ -1,0 +1,20 @@
+#Variables
+
+
+#A variable lets you store a value by assigning it to a name. The name can be used to refer to the value later in the program.
+#For example, in game development, you would use a variable to store the points of the player. What’s the point of playing if 
+#you don’t know who’s winning right!
+#To assign a variable, use one equals sign
+
+user = "James"  
+
+#In the example above we assigned string "James" to a variable called user.
+
+#other example:
+#Fill in the blanks to create a variable "age" and assign the value 42 to it:
+age = 42
+
+#Variable Names
+#Naming your variables is pretty flexible. You can use letters, numbers, and underscores in variable names. 
+#But you can’t use special symbols, or start the name with a number.
+#Don’t forget, Python is a case sensitive language. Which means, Lastname and lastname are two different variable names.
