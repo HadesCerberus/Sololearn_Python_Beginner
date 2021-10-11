@@ -1,0 +1,36 @@
+#Input
+
+
+#What function would we use to get input from the user in Python? Drumroll please! That’s right, the input function! 
+#Python likes to keep things simple and intuitive.
+
+#So a game can ask for the user's name and age as input and then use them in the game.
+
+#The input function prompts the user for input, and returns what they enter as a string. Like this:
+#Even if the user enters a number as input, it’s processed as a string.
+
+x = input()
+print(x)
+
+#other example
+
+text = input()
+print(text)
+
+
+#********************************************************************************************************************
+#To make the input statement work, it needs to be followed by parentheses. 
+#You should recognize this principle from the print statements we covered in module 1.
+
+#You can then provide a string to input() between the parentheses, producing a prompt message.
+
+name = input("Enter your name: ")
+
+print("Hello, " + name) 
+
+#OUTPUT
+#Hello Lisa
+
+
+#For example:
+#The prompt message tells the user what input the program is asking for – so it’s important that it’s clear.
