@@ -1,0 +1,56 @@
+#Booleans
+***************************
+
+#You’re making great progress! Well done! You’re definitely ready to meet another type in Python.
+#So we’ve met strings, integers and floats. Let’s add Booleans into the mix shall we?
+#Booleans can have two values: True and False.
+#We can create them by comparing values, for instance by using the equal operator ==. Like this:
+
+my_boolean = True
+print(my_boolean)
+True
+
+print(2 == 3)
+False
+
+print("hello" == "hello")
+True
+
+#OUTPUT
+True
+False
+True
+
+#Be careful not to confuse assignment (one equals sign) with comparison (two equals signs). But don’t worry, we’ll be talking more about this later.
+
+*************************************
+#Comparison
+*************************************
+
+It’s not just the equal operator (==) that creates Booleans though, oh no! You can use any of the comparison operators (and there are a few) to compare values and create a Boolean.
+
+So what are the other comparison operators? Well, we’ve got: equal to ==, not equal to !=, greater than >, smaller than <, greater or equal to >=, smaller or equal to <=.
+
+Now that might seem like a lot to take in, so let’s look at some examples:
+
+
+x = 7
+
+print(x != 8)
+print(x > 5)
+print(x < 2)
+print(x >= 7)
+print(x <= 7)
+
+#OUTPUT
+True
+True
+False
+True
+True
+
+
+
+
+
+Comparison operators are also called Relational operators.
